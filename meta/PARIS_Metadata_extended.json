@@ -3,6 +3,15 @@
     "url_png_icon_64x64": "https://github.com/paris-ada-stakepool/parispool/raw/master/meta/PARIS_logo64x64.png",
     "url_png_logo": "https://github.com/paris-ada-stakepool/parispool/raw/master/meta/PARIS_logo.png",
     "location": "Paris, France",
+    "social": {
+      "twitter_handle": "ParisStakePool",
+      "telegram_handle": "",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
+    },
     "about": {
       "me": "I'm a single pool operator and work as a senior software and quantitative engineer in France.",
       "server": "PARIS is not just a beautiful city... It's also now a Cardano stake pool ! Operated with love and dedication on three RaspberryPi servers in a secure, robust and power efficient way."
